@@ -1,6 +1,5 @@
 # Dating Apps Comparisons
-Visualizing similarities and differences between dating applications
-📱💖
+Visualizing similarities and differences between dating applications 📱💖
 
 ### Data 🗄️
 Data is gotten from https://en.wikipedia.org/wiki/Comparison_of_online_dating_services
@@ -20,7 +19,7 @@ This representation would represent the number of people using apps in certain
 categories, the major quirks of all the apps. 
 ``` 
 
-****
+-----
 
 [![page2-figma.png](https://i.postimg.cc/tRVn20bg/page2-figma.png)](https://postimg.cc/QVhMdyHL) 
 ``` 
