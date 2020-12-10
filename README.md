@@ -5,8 +5,8 @@ Visualizing similarities and differences between dating applications 📱💖
 Data is gotten from https://en.wikipedia.org/wiki/Comparison_of_online_dating_services
 
 ### Question(s) 🤔💭
-- What is the major quirk/product differentition of these apps?
-- Who are thse apps for?
+- What is the major quirk/product of these apps?
+- Who are these apps for?
 - How do these apps match people?
 - Where are these apps popular?
 
